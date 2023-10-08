@@ -28,7 +28,7 @@
 
 - Analysis Documentation: Document the analysis process, including the steps we took, techniques used, and why certain approaches were chosen over others. This documentation will help in the presentation and in understanding our analysis later.
 
-- Business Insights: Summarize our analysis findings and the insights gained from testing our hypotheses. Highlight key takeaways that XYZ can use to make informed investment decisions.
+- Business Insights: Summarize our analysis findings and the insights gained from testing our hypotheses. Highlight key takeaways that XYZ (our hypothetical stakeholder can use to make informed investment decisions.
 
 **Step 5: Presentation Preparation**
 
