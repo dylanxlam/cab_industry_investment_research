@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the analysis of data related to two cab companies, Pink Cab and Yellow Cab, with the goal of providing actionable insights for potential investors. The project aims to help stakeholders make an informed decision about which cab company to invest in.
+This project involves the analysis of data related to two cab companies, Pink Cab and Yellow Cab, with the goal of providing actionable insights for potential investors. The project aims to help stakeholders make informed decisions about which cab company to invest in.
 
 ## Project Description
 
@@ -18,10 +18,11 @@ The analysis is divided into several key sections:
 
 5. **City Comparison**: A comparison of cities is performed based on population and cab users per capita. This analysis helps in understanding the market dynamics in different cities.
 
+6. **Profit Margin Forecasting**: The project also includes forecasting future profit margins for the cab companies based on historical data. This provides insights into the potential financial performance of each company.
 
 ## Conclusion and Recommendations
 
-The research concludes with a summary of key findings and actionable recommendations for potential investors. These recommendations are based on the analysis conducted throughout the project.
+The research concludes with a summary of key findings and actionable recommendations for potential investors. These recommendations are based on the analysis conducted throughout the project, including profit margin forecasting.
 
 ## Getting Started
 
@@ -29,10 +30,11 @@ To replicate the analysis, follow these steps:
 
 1. **Clone the Repository**: Clone this GitHub repository to your local machine.
 
-2. **Install Dependencies**: Make sure you have all the necessary libraries and packages installed. You can use the provided `requirements.txt` file to install them using `pip`.
+2. **Install Dependencies**: Ensure you have all the necessary libraries and packages installed. You can use the provided `requirements.txt` file to install them using `pip`.
 
 3. **Data**: The dataset used for this analysis is stored in the `data` directory. Ensure that you have the dataset available locally.
 
 4. **Code**: Review the Jupyter Notebook or Python scripts provided in the repository. These contain the code used for the analysis.
 
-5. **Run the Analysis**: Execute the code in your preferred environment (e.g., Jupyter Notebook) to reproduce the analysis and generate visualizations.
+5. **Run the Analysis**: Execute the code in your preferred environment (e.g., Jupyter Notebook) to reproduce the analysis, including profit margin forecasting, and generate visualizations.
+
